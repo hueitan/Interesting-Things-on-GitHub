@@ -2,7 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
-- [Swift is now Open Source](swift-is-now-open-source)
+- [Swift is now Open Source](#swift-is-now-open-source)
 - [This is about one JS tip every day!](#this-is-about-one-js-tip-every-day)
 - [HTTP status messages in Singlish lor](#http-status-messages-in-singlish-lor)
 - [Ask me anything!](#ask-me-anything)
@@ -24,6 +24,7 @@ This is a [trending repository on GitHub](https://github.com/trending?l=javascri
 
 - If you like to submit a js tips, remember to read the [CONTRIBUTING.md](https://github.com/loverajoel/jstips/blob/master/CONTRIBUTING.md) to find the tip format.
 - To join the conversation about which topic should be covered in [jstips](https://github.com/loverajoel/jstips), click [this discussion issue](https://github.com/loverajoel/jstips/issues/18).
+- Thinking of one tip per file? - [jstips 13](https://github.com/loverajoel/jstips/issues/13)
 
 ### HTTP status messages in Singlish lor
 
