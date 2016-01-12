@@ -2,6 +2,12 @@
 
 As an Open Source developer, I am being attracted to new and interesting things on GitHub.
 
+- [This is about one JS tip every day!](#this-is-about-one-js-tip-every-day)
+- [Ask me antying!](#ask-me-anything)
+- [Awesome](awesome)
+- [spm 781](#spm-781)
+- [Should we stop GitHub in China](#should-we-stop-github-in-china)
+
 ### This is about one JS tip every day!
 
 ![jstip](https://raw.githubusercontent.com/loverajoel/jstips/master/resources/jstips-header-blog.gif)
