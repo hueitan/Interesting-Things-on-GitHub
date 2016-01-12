@@ -4,7 +4,7 @@ As an Open Source developer, I am being attracted to new and interesting things 
 
 - [This is about one JS tip every day!](#this-is-about-one-js-tip-every-day)
 - [Ask me antying!](#ask-me-anything)
-- [Awesome](awesome)
+- [Awesome](#awesome)
 - [spm 781](#spm-781)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 
@@ -52,7 +52,9 @@ This is [the issue](https://github.com/spmjs/spm/issues/781) in the project [spm
 
 ### Should we stop GitHub in China?
 
-I hope this is not going to happen in the future, at the moment, GitHub is still available in China but not google. Some of the people think GreatFire is pushing the GitHub to be banned - [Can you stop polluting GitHub](https://github.com/greatfire/wiki/issues/1). Also ibufu think GitHub [should be banned](https://github.com/greatfire/wiki/issues/72) because the firewall can **"filter"** some not so good programmer. 
+![greatfire](https://avatars0.githubusercontent.com/u/6158630?v=3&s=200)
+
+I hope this is not going to happen in the future, at the moment, GitHub is still available in China but not google. Some of the people think [GreatFire](https://github.com/greatfire) is pushing the GitHub to be banned - [Can you stop polluting GitHub](https://github.com/greatfire/wiki/issues/1). Also ibufu think GitHub [should be banned](https://github.com/greatfire/wiki/issues/72) because the firewall can **"filter"** some not so good programmer. 
 
 > Our goal is not to get GitHub blocked. We are trying to expand the online freedom which I believe all of us who use GitHub want. We are working hard to end online censorship in China and we believe that this is possible. But it requires that we unite. Those of us who believe that having access to GitHub is a right, not a favour that can be cancelled any time, must work together. [(Read more...)](https://github.com/greatfire/wiki/issues/1#issuecomment-30631750)
 
