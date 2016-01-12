@@ -1,9 +1,10 @@
 # Interesting Things on GitHub
 
-As an Open Source developer, I am being attracted to new and interesting things on GitHub.
+As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
 - [This is about one JS tip every day!](#this-is-about-one-js-tip-every-day)
-- [Ask me antying!](#ask-me-anything)
+- [HTTP status messages in Singlish lor](#http-status-messages-in-singlish-lor)
+- [Ask me anything!](#ask-me-anything)
 - [Awesome](#awesome)
 - [spm 781](#spm-781)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
@@ -16,6 +17,22 @@ This is a [trending repository on GitHub](https://github.com/trending?l=javascri
 
 - If you like to submit a js tips, remember to read the [CONTRIBUTING.md](https://github.com/loverajoel/jstips/blob/master/CONTRIBUTING.md) to find the tip format.
 - To join the conversation about which topic should be covered in [jstips](https://github.com/loverajoel/jstips), click [this discussion issue](https://github.com/loverajoel/jstips/issues/18).
+
+### HTTP status messages in Singlish lor
+
+Come, if u know the word **Singlish** or stay in Singapore or even watch Singapore Television/Movie ["I Not Stupid"](https://en.wikipedia.org/wiki/I_Not_Stupid), then you must be have experience get in touch with **Singlish**. And now Singlish is coming to the [http status messages](https://github.com/serrynaimo/http-status-singlish) liao!
+
+> Phua Chu Kang - **Don't play play**
+
+- 200 Can Confirm guarantee plus chop
+- 202 Oso can
+- 204 Nothing inside leh
+- 301 Change liao!
+- 307 Road block la.
+- 404 Dun have leh
+- 413 Wha! So big!
+
+There are too many funny and existent messages!
 
 ### Ask me anything!
 
