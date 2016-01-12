@@ -37,3 +37,10 @@ A curated list of [awesome lists](https://github.com/sindresorhus/awesome). This
 ![spm](https://i.alipayobjects.com/i/localhost/png/201404/2YQxOTYoFp.png)
 
 This is [the issue](https://github.com/spmjs/spm/issues/781) in the project [spmjs](https://github.com/spmjs). The team wants to popularise a brand new **static package manager** for browser. However, it's a good try and not everyone loves to accept, by agreeing to the spm, you need to introduce a new key **spm** to your **package.json** which doing the exact same job **package.json** is doing.
+
+> Tip, there's no reason you couldn't just use the package.json directly. Your properties are the exact same as the package.json properties. [#](https://github.com/sindresorhus/multiline/pull/22#issuecomment-52283949)
+
+- Why another package manager, high quality requirement. [lodash 543](https://github.com/lodash/lodash/pull/543)
+- Decline at the first, package.json should be enough, why again more package manager. [underscore 1630](https://github.com/jashkenas/underscore/pull/1630)
+- [Cat crying face](https://github.com/jashkenas/backbone/pull/3148#issuecomment-43162173) when being rejected. 
+- Don't dirty the original **package.json** - [Cookies 26](https://github.com/ScottHamper/Cookies/pull/26)
