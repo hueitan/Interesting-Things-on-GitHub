@@ -30,3 +30,10 @@ A curated list of [awesome lists](https://github.com/sindresorhus/awesome). This
 - [What is awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md) actually? 
 - Find out how to [create a new awesome list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 - [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Awesome Badge!
+
+### spm 781
+
+
+![spm](https://i.alipayobjects.com/i/localhost/png/201404/2YQxOTYoFp.png)
+
+This is [the issue](https://github.com/spmjs/spm/issues/781) in the project [spmjs](https://github.com/spmjs). The team wants to popularise a brand new **static package manager** for browser. However, it's a good try and not everyone loves to accept, by agreeing to the spm, you need to introduce a new key **spm** to your **package.json** which doing the exact same job **package.json** is doing.
