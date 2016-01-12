@@ -8,6 +8,7 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Ask me anything!](#ask-me-anything)
 - [Awesome](#awesome)
 - [spm 781](#spm-781)
+- [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 
 ### Swift is now Open Source
@@ -74,6 +75,16 @@ This is [the issue](https://github.com/spmjs/spm/issues/781) in the project [spm
 - Decline at the first, package.json should be enough, why again more package manager. [underscore 1630](https://github.com/jashkenas/underscore/pull/1630)
 - [Cat crying face](https://github.com/jashkenas/backbone/pull/3148#issuecomment-43162173) when being rejected. 
 - Don't dirty the original **package.json** - [Cookies 26](https://github.com/ScottHamper/Cookies/pull/26)
+
+### Volkswagen is the best
+
+[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+
+Oh yay, [Volkswagen](https://github.com/auchenberg/volkswagen) is the [best](https://github.com/auchenberg/volkswagen/issues/5)! 
+
+True Life:
+
+> This will allow you to spend less time worrying about testing and more time enjoying the good life as a trustful software developer.
 
 ### Should we stop GitHub in China?
 
