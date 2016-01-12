@@ -1,5 +1,7 @@
 # Interesting Things on GitHub [![Join the chat at https://gitter.im/huei90/Interesting-Things-on-GitHub](https://badges.gitter.im/huei90/Interesting-Things-on-GitHub.svg)](https://gitter.im/huei90/Interesting-Things-on-GitHub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/huei90/Interesting-Things-on-GitHub](https://badges.gitter.im/huei90/Interesting-Things-on-GitHub.svg)](https://gitter.im/huei90/Interesting-Things-on-GitHub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
 - [Swift is now Open Source](#swift-is-now-open-source)
