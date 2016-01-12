@@ -75,6 +75,7 @@ This is [the issue](https://github.com/spmjs/spm/issues/781) in the project [spm
 - Decline at the first, package.json should be enough, why again more package manager. [underscore 1630](https://github.com/jashkenas/underscore/pull/1630)
 - [Cat crying face](https://github.com/jashkenas/backbone/pull/3148#issuecomment-43162173) when being rejected. 
 - Don't dirty the original **package.json** - [Cookies 26](https://github.com/ScottHamper/Cookies/pull/26)
+- Good Bye **spm** - [farewell](https://github.com/spmjs/spm/issues/1416)
 
 ### Volkswagen is the best
 
