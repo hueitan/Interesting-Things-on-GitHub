@@ -4,7 +4,7 @@ As an Open Source developer, I am being attracted to new and interesting things 
 
 ### This is about one JS tip every day!
 
-![header](https://raw.githubusercontent.com/loverajoel/jstips/master/resources/jstips-header-blog.gif)
+![jstip](https://raw.githubusercontent.com/loverajoel/jstips/master/resources/jstips-header-blog.gif)
 
 This is a [trending repository on GitHub](https://github.com/trending?l=javascript&since=daily) since it begins, [jstips](https://github.com/loverajoel/jstips). 
 
@@ -19,3 +19,14 @@ This is a [trending repository on GitHub](https://github.com/trending?l=javascri
 
 - A very great question which is popular - [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 - You can find others who pick up ama - [https://github.com/sindresorhus/amas](Awesome & Marvelous Amas)
+
+### Awesome
+
+<img src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" width="200"/>
+
+A curated list of [awesome lists](https://github.com/sindresorhus/awesome). This is very awesome which need every hackers join and contribute.
+
+- This is the list of many lists and almost cover all the topics - [Table of Contents](https://github.com/sindresorhus/awesome#table-of-contents)
+- [What is awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md) actually? 
+- Find out how to [create a new awesome list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
+- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Awesome Badge!
