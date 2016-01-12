@@ -2,12 +2,19 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Swift is now Open Source](swift-is-now-open-source)
 - [This is about one JS tip every day!](#this-is-about-one-js-tip-every-day)
 - [HTTP status messages in Singlish lor](#http-status-messages-in-singlish-lor)
 - [Ask me anything!](#ask-me-anything)
 - [Awesome](#awesome)
 - [spm 781](#spm-781)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
+
+### Swift is now Open Source
+
+![swift](https://cloud.githubusercontent.com/assets/173/11571533/b88bd4aa-99b1-11e5-9e15-4e2062d0d774.png)
+
+This is a good [news](https://github.com/huei90/Interesting-Things-on-GitHub#spm-781). The project goes [here](https://github.com/apple/swift). Also, there is a new showcase for swift in [Explore GitHub](https://github.com/showcases/swift).
 
 ### This is about one JS tip every day!
 
