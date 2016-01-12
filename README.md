@@ -33,7 +33,6 @@ A curated list of [awesome lists](https://github.com/sindresorhus/awesome). This
 
 ### spm 781
 
-
 ![spm](https://i.alipayobjects.com/i/localhost/png/201404/2YQxOTYoFp.png)
 
 This is [the issue](https://github.com/spmjs/spm/issues/781) in the project [spmjs](https://github.com/spmjs). The team wants to popularise a brand new **static package manager** for browser. However, it's a good try and not everyone loves to accept, by agreeing to the spm, you need to introduce a new key **spm** to your **package.json** which doing the exact same job **package.json** is doing.
@@ -44,3 +43,12 @@ This is [the issue](https://github.com/spmjs/spm/issues/781) in the project [spm
 - Decline at the first, package.json should be enough, why again more package manager. [underscore 1630](https://github.com/jashkenas/underscore/pull/1630)
 - [Cat crying face](https://github.com/jashkenas/backbone/pull/3148#issuecomment-43162173) when being rejected. 
 - Don't dirty the original **package.json** - [Cookies 26](https://github.com/ScottHamper/Cookies/pull/26)
+
+### Should we stop GitHub in China?
+
+I hope this is not going to happen in the future, at the moment, GitHub is still available in China but not google. Some of the people think GreatFire is pushing the GitHub to be banned - [Can you stop polluting GitHub](https://github.com/greatfire/wiki/issues/1). Also ibufu think GitHub [should be banned](https://github.com/greatfire/wiki/issues/72) because the firewall can **"filter"** some not so good programmer. 
+
+> Our goal is not to get GitHub blocked. We are trying to expand the online freedom which I believe all of us who use GitHub want. We are working hard to end online censorship in China and we believe that this is possible. But it requires that we unite. Those of us who believe that having access to GitHub is a right, not a favour that can be cancelled any time, must work together. [(Read more...)](https://github.com/greatfire/wiki/issues/1#issuecomment-30631750)
+
+- Don't do politics, don't do politics - [GreatFire 65](https://github.com/greatfire/wiki/issues/65)
+- Please don't block GitHub - [GreatFire 60](https://github.com/greatfire/wiki/issues/60)
