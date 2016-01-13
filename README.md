@@ -10,6 +10,7 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [spm 781](#spm-781)
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
+- [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
 
 ### Swift is now Open Source
 
@@ -29,7 +30,7 @@ This is a [trending repository on GitHub](https://github.com/trending?l=javascri
 
 ### HTTP status messages in Singlish lor
 
-Come, if u know the word **Singlish** or stay in Singapore or even watch Singapore Television/Movie ["I Not Stupid"](https://en.wikipedia.org/wiki/I_Not_Stupid), then you must be have experience get in touch with **Singlish**. And now Singlish is coming to the [http status messages](https://github.com/serrynaimo/http-status-singlish) liao!
+Come, if u know the word **Singlish** or stay in Singapore or even watch Singapore Television/Movie ["I Not Stupid"](https://en.wikipedia.org/wiki/I_Not_Stupid), then you must have the experience get in touch with **Singlish**. And now Singlish is coming to [http status messages](https://github.com/serrynaimo/http-status-singlish) liao!
 
 > Phua Chu Kang - **Don't play play**
 
@@ -93,9 +94,19 @@ True Life:
 
 ![greatfire](https://avatars0.githubusercontent.com/u/6158630?v=3&s=200)
 
-I hope this is not going to happen in the future, at the moment, GitHub is still available in China but not google. Some of the people think [GreatFire](https://github.com/greatfire) is pushing the GitHub to be banned - [Can you stop polluting GitHub](https://github.com/greatfire/wiki/issues/1). Also ibufu think GitHub [should be banned](https://github.com/greatfire/wiki/issues/72) because the firewall can **"filter"** some not so good programmer. 
+I hope this is not going to happen in the future, at the moment, GitHub is still available in China but not google. Some of the people think [GreatFire](https://github.com/greatfire) is pushing the GitHub to be banned - [Can you stop polluting GitHub](https://github.com/greatfire/wiki/issues/1). Also ibufu think GitHub [should be banned](https://github.com/greatfire/wiki/issues/72) because the firewall can **"filter"** some not so good programmers. 
 
 > Our goal is not to get GitHub blocked. We are trying to expand the online freedom which I believe all of us who use GitHub want. We are working hard to end online censorship in China and we believe that this is possible. But it requires that we unite. Those of us who believe that having access to GitHub is a right, not a favour that can be cancelled any time, must work together. [(Read more...)](https://github.com/greatfire/wiki/issues/1#issuecomment-30631750)
 
 - Don't do politics, don't do politics - [GreatFire 65](https://github.com/greatfire/wiki/issues/65)
 - Please don't block GitHub - [GreatFire 60](https://github.com/greatfire/wiki/issues/60)
+
+### Art Version of your Contribution Graph
+
+![meow](https://camo.githubusercontent.com/e1bca56075049bce6f18ab5312c9a1310fc44c59/68747470733a2f2f7261772e6769746875622e636f6d2f67656c73747564696f732f676974666974692f6d61737465722f706978656c732d6c617267652e706e67)
+
+Contribution Graph (a.k.a [Contributions Calendar](https://help.github.com/articles/viewing-contributions-on-your-profile-page/#contributions-calendar)) shows your contribution activity over the past year. But do you know that you can modify it without any painful commit. Shows your awesome graph to your followers, meow!
+
+- Render an isometric pixel art version of your contribution graph in Chrome and Safari. - [isometric-contributions](https://github.com/jasonlong/isometric-contributions)
+- Modifying the commit history of git repositories - [commitart](https://github.com/jbranchaud/commitart)
+- abusing github commit history for the lulz - [gitfiti](https://github.com/gelstudios/gitfiti)
