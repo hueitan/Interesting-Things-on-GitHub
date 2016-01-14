@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [ChakraCore is now on GitHub](#chakracore-is-now-on-github)
 - [Swift is now Open Source](#swift-is-now-open-source)
 - [This is about one JS tip every day!](#this-is-about-one-js-tip-every-day)
 - [HTTP status messages in Singlish lor](#http-status-messages-in-singlish-lor)
@@ -11,6 +12,20 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### ChakraCore is now on GitHub
+
+<img src="http://www.underconsideration.com/brandnew/archives/microsoft_edge_logo_detail.png" width="200"/>
+
+About [one month later](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/), ChakraCore is [landing on GitHub](https://github.com/Microsoft/ChakraCore)
+
+> **Chakra** offers best-in-class JavaScript execution with the broadest set of ES2015 feature coverage and dependable performance, reliability, and scalability.
+
+> The core components of Chakra as **ChakraCore**, which will include all the key components of the JavaScript engine powering Microsoft Edge.
+
+- Read the [roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap) of ChakraCore
+- [ChakraCore GitHub repository is now open](https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/)
+- Chakra has the most support for ES6 features of any shipping browser ([Kangax ES6 Compatibility Table](http://kangax.github.io/compat-table/es6/))
 
 ### Swift is now Open Source
 
