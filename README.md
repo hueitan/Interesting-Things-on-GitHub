@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [An open letter to GitHub from the maintainers of open source projects](#an-open-letter-to-github-from-the-maintainers-of-open-source-projects)
 - [ChakraCore is now on GitHub](#chakracore-is-now-on-github)
 - [Swift is now Open Source](#swift-is-now-open-source)
 - [This is about one JS tip every day!](#this-is-about-one-js-tip-every-day)
@@ -12,6 +13,15 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### An open letter to GitHub from the maintainers of open source projects
+
+[Dear GitHub](https://github.com/dear-github/dear-github).
+
+We have no way to tell what GitHub should do, but please,
+please notice all the maintainers' suggestions.
+
+- Are you the maintainer of a project on GitHub and want to sign as well? - [Please sign here](https://docs.google.com/forms/d/1vhHAdeHKLSnfVlDR1uw0eEWtgvubsdk-4uirim_mSQU/viewform?c=0&w=1)
 
 ### ChakraCore is now on GitHub
 
