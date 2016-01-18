@@ -139,3 +139,4 @@ Contribution Graph (a.k.a [Contributions Calendar](https://help.github.com/artic
 - Render an isometric pixel art version of your contribution graph in Chrome and Safari. - [isometric-contributions](https://github.com/jasonlong/isometric-contributions)
 - Modifying the commit history of git repositories - [commitart](https://github.com/jbranchaud/commitart)
 - abusing github commit history for the lulz - [gitfiti](https://github.com/gelstudios/gitfiti)
+- Allows you to draw in your github heatmap - [git-draw](https://github.com/ben174/git-draw)
