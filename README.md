@@ -24,6 +24,7 @@ please notice all the maintainers' suggestions.
 - Are you the maintainer of a project on GitHub and want to sign as well? - [Please sign here](https://docs.google.com/forms/d/1vhHAdeHKLSnfVlDR1uw0eEWtgvubsdk-4uirim_mSQU/viewform?c=0&w=1)
 - [Discussion](https://github.com/dear-github/dear-github/issues/56) about GitLab: Pros and Cons
 - [Alternative](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
+- [Alternative](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub (Thank You GitHub)
 
 ### ChakraCore is now on GitHub
 
