@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Is XX dying?](#is-xx-dying)
 - [An open letter to GitHub from the maintainers of open source projects](#an-open-letter-to-github-from-the-maintainers-of-open-source-projects)
 - [ChakraCore is now on GitHub](#chakracore-is-now-on-github)
 - [Swift is now Open Source](#swift-is-now-open-source)
@@ -13,6 +14,15 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Is XX dying?
+
+> Is something dying?
+
+Always be the most interesting discussion within a great/old project.
+
+- [Is express dying?](https://github.com/strongloop/express/issues/2844)
+- More...
 
 ### An open letter to GitHub from the maintainers of open source projects
 
