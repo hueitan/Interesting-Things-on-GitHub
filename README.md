@@ -22,7 +22,9 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 Always be the most interesting discussion within a great/old project.
 
 - [Is express dying?](https://github.com/strongloop/express/issues/2844)
+- [Bower may be dying!](https://github.com/aspnet/Home/issues/1074)
 - [Dead project? angular-form-builder](https://github.com/kelp404/angular-form-builder/issues/80)
+- [Announce "this project is not maintained anymore" - Componentjs](https://github.com/componentjs/component/issues/639)
 - More...
 
 ### An open letter to GitHub from the maintainers of open source projects
