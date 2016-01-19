@@ -2,7 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
-- [Filter-search-on-personal-GitHub-repo](#filter-search-on-personal-github-repo)
+- [Filter search on personal GitHub repo](#filter-search-on-personal-github-repo)
 - [Is XX dying?](#is-xx-dying)
 - [An open letter to GitHub from the maintainers of open source projects](#an-open-letter-to-github-from-the-maintainers-of-open-source-projects)
 - [ChakraCore is now on GitHub](#chakracore-is-now-on-github)
