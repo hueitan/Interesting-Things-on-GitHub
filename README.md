@@ -112,6 +112,7 @@ A curated list of [awesome lists](https://github.com/sindresorhus/awesome). This
 - [What is awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md) actually? 
 - Find out how to [create a new awesome list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 - [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Awesome Badge!
+- We are in GitHub, so I should include some awesome GitHub stuffs - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 ### spm 781
 
