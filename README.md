@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Comment in diff markdown](#comment-in-diff-markdown)
 - [Filter search on personal GitHub repo](#filter-search-on-personal-github-repo)
 - [Is XX dying?](#is-xx-dying)
 - [An open letter to GitHub from the maintainers of open source projects](#an-open-letter-to-github-from-the-maintainers-of-open-source-projects)
@@ -15,6 +16,16 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Comment in diff markdown
+
+By typing `diff` as the Code block type, we can have the following markdown style
+
+```diff
+- this is the deletion
++ this is the addition
+this isn't change at all
+```
 
 ### Filter search on personal GitHub repo
 
