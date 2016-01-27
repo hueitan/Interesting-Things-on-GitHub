@@ -70,6 +70,7 @@ About [one month later](https://blogs.windows.com/msedgedev/2015/12/05/open-sour
 - Read the [roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap) of ChakraCore
 - [ChakraCore GitHub repository is now open](https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/)
 - Chakra has the most support for ES6 features of any shipping browser ([Kangax ES6 Compatibility Table](http://kangax.github.io/compat-table/es6/))
+- [Submitting a Pull Request to Node.js with ChakraCore](https://blogs.windows.com/msedgedev/2016/01/19/nodejs-chakracore-mainline/) - [PR](http://aka.ms/node-chakracore-pr)
 
 ### Swift is now Open Source
 
