@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Markdown text-formatting toolbar](#markdown-text-formatting-toolbar)
 - [Comment in diff markdown](#comment-in-diff-markdown)
 - [Filter search on personal GitHub repo](#filter-search-on-personal-github-repo)
 - [Is XX dying?](#is-xx-dying)
@@ -16,6 +17,14 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Markdown text-formatting toolbar
+
+:point_right: We can use the text-formatting toolbar for markdown now:smile:
+
+![toolbar](https://cloud.githubusercontent.com/assets/1369864/12426292/97d5a18e-be9e-11e5-8637-7c8109b4315f.gif)
+
+> blog - https://github.com/blog/2097-improved-commenting-with-markdown
 
 ### Comment in diff markdown
 
