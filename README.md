@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Issue and PR templates](#issue-and-pr-templates)
 - [Markdown text-formatting toolbar](#markdown-text-formatting-toolbar)
 - [Comment in diff markdown](#comment-in-diff-markdown)
 - [Filter search on personal GitHub repo](#filter-search-on-personal-github-repo)
@@ -17,6 +18,14 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Issue and PR templates
+
+Issue and Pull Request templates support now! All you have to do is adding `ISSUE_TEMPLATE/PULL_REQUEST_TEMPLATE` file to your root directory.
+
+- Dear GitHub - https://github.com/dear-github/dear-github/issues/125
+- [Official Blog](https://github.com/blog/2111-issue-and-pull-request-templates), [Documentation](https://help.github.com/articles/helping-people-contribute-to-your-project/)
+- [Curated list of GitHub Issues and Pull Requests templates](https://github.com/devspace/awesome-github-templates)
 
 ### Markdown text-formatting toolbar
 
