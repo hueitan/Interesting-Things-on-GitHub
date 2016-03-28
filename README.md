@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Contributor on-ramp](#contributor-on-ramp)
 - [Issue and PR templates](#issue-and-pr-templates)
 - [Markdown text-formatting toolbar](#markdown-text-formatting-toolbar)
 - [Comment in diff markdown](#comment-in-diff-markdown)
@@ -18,6 +19,12 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Contributor on-ramp
+
+Github has [announced](https://github.com/blog/2128-creating-a-new-contributor-on-ramp) a ramp for every contributor
+
+<img src="https://cloud.githubusercontent.com/assets/3004831/13681068/459bc044-e6b0-11e5-8015-a8508d6f33e8.png"/>
 
 ### Issue and PR templates
 
