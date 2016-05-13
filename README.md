@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Unlimited Private Repositories](#unlimited-private-repositories)
 - [Contributor on-ramp](#contributor-on-ramp)
 - [Issue and PR templates](#issue-and-pr-templates)
 - [Markdown text-formatting toolbar](#markdown-text-formatting-toolbar)
@@ -19,6 +20,14 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Unlimited Private Repositories
+
+Big News! 🎉 
+
+All of the paid plans on GitHub now including UNLIMITED private repositories!
+
+- [Introducing unlimited private repositories](all of our paid plans on GitHub.com now include unlimited private repositories)
 
 ### Contributor on-ramp
 
