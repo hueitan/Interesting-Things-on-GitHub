@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [GitHub Profile is now able to customize](#github-profile-is-now-able-to-customize)
 - [Unlimited Private Repositories](#unlimited-private-repositories)
 - [Contributor on-ramp](#contributor-on-ramp)
 - [Issue and PR templates](#issue-and-pr-templates)
@@ -20,6 +21,12 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### GitHub Profile is now able to customize
+
+Github is now more Personal now! _Facebook of Open Source? probably not yet._
+
+- [Pin repositories to your GitHub profile](https://github.com/blog/2191-pin-repositories-to-your-github-profile)
 
 ### Unlimited Private Repositories
 
