@@ -203,6 +203,7 @@ I hope this is not going to happen in the future, at the moment, GitHub is still
 
 - Don't do politics, don't do politics - [GreatFire 65](https://github.com/greatfire/wiki/issues/65)
 - Please don't block GitHub - [GreatFire 60](https://github.com/greatfire/wiki/issues/60)
+- 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 - [zhao](https://github.com/programthink/zhao)
 
 ### Art Version of your Contribution Graph
 
