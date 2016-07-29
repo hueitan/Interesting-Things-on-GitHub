@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Commit checked](#commit-checked)
 - [GitHub Profile is now able to customize](#github-profile-is-now-able-to-customize)
 - [Unlimited Private Repositories](#unlimited-private-repositories)
 - [Contributor on-ramp](#contributor-on-ramp)
@@ -21,6 +22,12 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Commit Checked
+
+I just found those `checked` in the commit
+
+![screen shot 2016-07-29 at 13 07 31](https://cloud.githubusercontent.com/assets/2560096/17246641/bcf34d00-558d-11e6-89c8-e08acdce52ef.png)
 
 ### GitHub Profile is now able to customize
 
