@@ -111,6 +111,7 @@ please notice all the maintainers' suggestions.
 - [Discussion](https://github.com/dear-github/dear-github/issues/56) about GitLab: Pros and Cons
 - [Alternative](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [Alternative](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub (Thank You GitHub)
+- [Dear Apple](https://github.com/dear-apple/dear-apple) is coming :apple:
 
 ### ChakraCore is now on GitHub
 
