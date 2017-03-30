@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [A formal spec for GitHub Flavored Markdown](#a-formal-spec-for-github-flavored-markdown)
 - [Open Source Guide](#open-source-guide)
 - [Hacktoberfest 2016](#hacktoberfest-2016)
 - [Commit checked](#commit-checked)
@@ -25,9 +26,14 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
 
+### A formal spec for GitHub Flavored Markdown
+
+Finally, it's here! [Fomal GitHub Blog](https://github.com/blog/2333-a-formal-spec-for-github-flavored-markdown) and the [Formal Spec](https://github.github.com/gfm/) for our beloved Markdown.
+
 ### Open Source Guide
 
 Everything has a guide, so that Open Source! - [Open Source Guide](https://opensource.guide/) :heart:
+
 ### Hacktoberfest 2016
 
 <a href="https://hacktoberfest.digitalocean.com/" title="hacktoberfest"><img src="https://cloud.githubusercontent.com/assets/121322/18864038/31532b4a-8449-11e6-8701-97c00c95bf09.png"/></a>
