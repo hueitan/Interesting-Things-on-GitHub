@@ -146,7 +146,7 @@ This is a good [news](https://github.com/huei90/Interesting-Things-on-GitHub#spm
 
 ### This is about one JS tip every day!
 
-![jstip](https://raw.githubusercontent.com/loverajoel/jstips/master/resources/jstips-header-blog.gif)
+![jstip](https://github.com/loverajoel/jstips/raw/gh-pages/assets/images/jstips-animation.gif)
 
 This is a [trending repository on GitHub](https://github.com/trending?l=javascript&since=daily) since it begins, [jstips](https://github.com/loverajoel/jstips). 
 
