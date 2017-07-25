@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Keyword updates in Issues and Pull Requests](#keyword-updates-in-issues-and-pull-requests)
 - [A formal spec for GitHub Flavored Markdown](#a-formal-spec-for-github-flavored-markdown)
 - [Open Source Guide](#open-source-guide)
 - [Hacktoberfest 2016](#hacktoberfest-2016)
@@ -25,6 +26,13 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Keyword updates in Issues and Pull Requests
+
+GitHub keeps improving with every single detail, it gives a lot of issue/pr references when mentioned in the comment. <br/>
+[READ the article.](https://github.com/blog/2398-manage-issues-and-pull-requests-with-keyword-updates)
+
+<img src="https://user-images.githubusercontent.com/5679180/28185029-a6d3ca4a-67ca-11e7-88b7-60629bd9c788.gif"/>
 
 ### A formal spec for GitHub Flavored Markdown
 
