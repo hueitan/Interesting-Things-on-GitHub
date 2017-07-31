@@ -130,6 +130,7 @@ please notice all the maintainers' suggestions.
 - [Alternative](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [Alternative](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub (Thank You GitHub)
 - [Dear Apple](https://github.com/dear-apple/dear-apple) is coming :apple:
+- [Dear Flash](https://github.com/pakastin/open-source-flash)
 
 ### ChakraCore is now on GitHub
 
