@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Infinity Contributors](infinity-contributors)
 - [Keyword updates in Issues and Pull Requests](#keyword-updates-in-issues-and-pull-requests)
 - [A formal spec for GitHub Flavored Markdown](#a-formal-spec-for-github-flavored-markdown)
 - [Open Source Guide](#open-source-guide)
@@ -26,6 +27,12 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+### Infinity Contributors
+
+<img src="https://user-images.githubusercontent.com/2560096/30745291-d55fcd74-9fa5-11e7-9042-fdce91cb52cb.png"/>
+
+- [Reddit - GitHub shows infinite contributors to the Linux source repository](https://www.reddit.com/r/linux/comments/5tkqmy/github_shows_infinite_contributors_to_the_linux/?st=j7vvyoaa&sh=64d80cd9)
 
 ### Keyword updates in Issues and Pull Requests
 
