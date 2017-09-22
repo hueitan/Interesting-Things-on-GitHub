@@ -2,7 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
-- [Infinity Contributors](infinity-contributors)
+- [Infinity Contributors](#infinity-contributors)
 - [Keyword updates in Issues and Pull Requests](#keyword-updates-in-issues-and-pull-requests)
 - [A formal spec for GitHub Flavored Markdown](#a-formal-spec-for-github-flavored-markdown)
 - [Open Source Guide](#open-source-guide)
