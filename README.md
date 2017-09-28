@@ -6,7 +6,7 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Keyword updates in Issues and Pull Requests](#keyword-updates-in-issues-and-pull-requests)
 - [A formal spec for GitHub Flavored Markdown](#a-formal-spec-for-github-flavored-markdown)
 - [Open Source Guide](#open-source-guide)
-- [Hacktoberfest 2016](#hacktoberfest-2016)
+- [Hacktoberfest 2016 2017](#hacktoberfest-2016-2017)
 - [Commit checked](#commit-checked)
 - [GitHub Profile is now able to customize](#github-profile-is-now-able-to-customize)
 - [Unlimited Private Repositories](#unlimited-private-repositories)
@@ -49,9 +49,11 @@ Finally, it's here! [Fomal GitHub Blog](https://github.com/blog/2333-a-formal-sp
 
 Everything has a guide, so that Open Source! - [Open Source Guide](https://opensource.guide/) :heart:
 
-### Hacktoberfest 2016
+### Hacktoberfest 2016 2017
 
-<a href="https://hacktoberfest.digitalocean.com/" title="hacktoberfest"><img src="https://cloud.githubusercontent.com/assets/121322/18864038/31532b4a-8449-11e6-8701-97c00c95bf09.png"/></a>
+<a href="https://hacktoberfest.digitalocean.com/" title="hacktoberfest2016"><img src="https://cloud.githubusercontent.com/assets/121322/18864038/31532b4a-8449-11e6-8701-97c00c95bf09.png"/></a>
+
+<a href="https://hacktoberfest.digitalocean.com/" title="hacktoberfest2016"><img src="https://user-images.githubusercontent.com/121322/30467317-a5db5d10-9998-11e7-9cce-c14dc226dd01.png"/></a>
 
 - #hacktoberfest
 
