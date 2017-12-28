@@ -28,11 +28,15 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
 
+---
+
 ### Infinity Contributors
 
 <img src="https://user-images.githubusercontent.com/2560096/30745291-d55fcd74-9fa5-11e7-9042-fdce91cb52cb.png"/>
 
 - [Reddit - GitHub shows infinite contributors to the Linux source repository](https://www.reddit.com/r/linux/comments/5tkqmy/github_shows_infinite_contributors_to_the_linux/?st=j7vvyoaa&sh=64d80cd9)
+
+---
 
 ### Keyword updates in Issues and Pull Requests
 
@@ -41,13 +45,19 @@ GitHub keeps improving with every single detail, it gives a lot of issue/pr refe
 
 <img src="https://user-images.githubusercontent.com/5679180/28185029-a6d3ca4a-67ca-11e7-88b7-60629bd9c788.gif"/>
 
+---
+
 ### A formal spec for GitHub Flavored Markdown
 
 Finally, it's here! [Fomal GitHub Blog](https://github.com/blog/2333-a-formal-spec-for-github-flavored-markdown) and the [Formal Spec](https://github.github.com/gfm/) for our beloved Markdown.
 
+---
+
 ### Open Source Guide
 
 Everything has a guide, so that Open Source! - [Open Source Guide](https://opensource.guide/) :heart:
+
+---
 
 ### Hacktoberfest 2016 2017
 
@@ -57,17 +67,23 @@ Everything has a guide, so that Open Source! - [Open Source Guide](https://opens
 
 - #hacktoberfest
 
+---
+
 ### Commit Checked
 
 I just found those `checked` in the commit
 
 ![screen shot 2016-07-29 at 13 07 31](https://cloud.githubusercontent.com/assets/2560096/17246641/bcf34d00-558d-11e6-89c8-e08acdce52ef.png)
 
+---
+
 ### GitHub Profile is now able to customize
 
 Github is now more Personal now! _Facebook of Open Source? probably not yet._
 
 - [Pin repositories to your GitHub profile](https://github.com/blog/2191-pin-repositories-to-your-github-profile)
+
+---
 
 ### Unlimited Private Repositories
 
@@ -77,11 +93,15 @@ All of the paid plans on GitHub now including UNLIMITED private repositories!
 
 - [Introducing unlimited private repositories](all of our paid plans on GitHub.com now include unlimited private repositories)
 
+---
+
 ### Contributor on-ramp
 
 Github has [announced](https://github.com/blog/2128-creating-a-new-contributor-on-ramp) a ramp for every contributor
 
 <img src="https://cloud.githubusercontent.com/assets/3004831/13681068/459bc044-e6b0-11e5-8015-a8508d6f33e8.png"/>
+
+---
 
 ### Issue and PR templates
 
@@ -91,6 +111,8 @@ Issue and Pull Request templates support now! All you have to do is adding `ISSU
 - [Official Blog](https://github.com/blog/2111-issue-and-pull-request-templates), [Documentation](https://help.github.com/articles/helping-people-contribute-to-your-project/)
 - [Curated list of GitHub Issues and Pull Requests templates](https://github.com/devspace/awesome-github-templates)
 
+---
+
 ### Markdown text-formatting toolbar
 
 :point_right: We can use the text-formatting toolbar for markdown now:smile:
@@ -98,6 +120,8 @@ Issue and Pull Request templates support now! All you have to do is adding `ISSU
 ![toolbar](https://cloud.githubusercontent.com/assets/1369864/12426292/97d5a18e-be9e-11e5-8637-7c8109b4315f.gif)
 
 > blog - https://github.com/blog/2097-improved-commenting-with-markdown
+
+---
 
 ### Comment in diff markdown
 
@@ -109,11 +133,15 @@ By typing `diff` as the Code block type, we can have the following markdown styl
 this isn't change at all
 ```
 
+---
+
 ### Filter search on personal GitHub repo
 
 Yes, we can do this :sunglasses: 
 
 ![instant-search-repo](https://cloud.githubusercontent.com/assets/2560096/12412462/a5b15294-bec1-11e5-8951-4f09566b99fe.gif)
+
+---
 
 ### Is XX dying?
 
@@ -126,6 +154,8 @@ Always be the most interesting discussion within a great/old project.
 - [Dead project? angular-form-builder](https://github.com/kelp404/angular-form-builder/issues/80)
 - [Announce "this project is not maintained anymore" - Componentjs](https://github.com/componentjs/component/issues/639)
 - More...
+
+---
 
 ### An open letter to GitHub from the maintainers of open source projects
 
@@ -140,6 +170,8 @@ please notice all the maintainers' suggestions.
 - [Alternative](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub (Thank You GitHub)
 - [Dear Apple](https://github.com/dear-apple/dear-apple) is coming :apple:
 - [Dear Flash](https://github.com/pakastin/open-source-flash)
+
+---
 
 ### ChakraCore is now on GitHub
 
@@ -156,11 +188,15 @@ About [one month later](https://blogs.windows.com/msedgedev/2015/12/05/open-sour
 - Chakra has the most support for ES6 features of any shipping browser ([Kangax ES6 Compatibility Table](http://kangax.github.io/compat-table/es6/))
 - [Submitting a Pull Request to Node.js with ChakraCore](https://blogs.windows.com/msedgedev/2016/01/19/nodejs-chakracore-mainline/) - [PR](http://aka.ms/node-chakracore-pr)
 
+---
+
 ### Swift is now Open Source
 
 ![swift](https://cloud.githubusercontent.com/assets/173/11571533/b88bd4aa-99b1-11e5-9e15-4e2062d0d774.png)
 
 This is a good [news](https://github.com/huei90/Interesting-Things-on-GitHub#spm-781). The project goes [here](https://github.com/apple/swift). Also, there is a new showcase for swift in [Explore GitHub](https://github.com/showcases/swift).
+
+---
 
 ### This is about one JS tip every day!
 
@@ -172,6 +208,8 @@ This is a [trending repository on GitHub](https://github.com/trending?l=javascri
 - To join the conversation about which topic should be covered in [jstips](https://github.com/loverajoel/jstips), click [this discussion issue](https://github.com/loverajoel/jstips/issues/18).
 - Thinking of one tip per file? - [jstips 13](https://github.com/loverajoel/jstips/issues/13)
 - You could get tips by [email](http://js2016.tips/)
+
+---
 
 ### HTTP status messages in Singlish lor
 
@@ -189,6 +227,8 @@ Come, if u know the word **Singlish** or stay in Singapore or even watch Singapo
 
 There are too many funny and existent messages!
 
+---
+
 ### Ask me anything!
 
 [Sindre Sorhus](https://github.com/sindresorhus/ama) raised a very attractive topic [AMA](https://github.com/sindresorhus/ama) (a.k.a Ask me anything). This usually focus on asking the author about **anything** himself, there are a lot of questions and answers can be found on [issues](https://github.com/sindresorhus/ama/issues).
@@ -197,6 +237,8 @@ There are too many funny and existent messages!
 
 - A very great question which is popular - [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 - You can find others who pick up ama - [https://github.com/sindresorhus/amas](Awesome & Marvelous Amas)
+
+---
 
 ### Awesome
 
@@ -209,6 +251,8 @@ A curated list of [awesome lists](https://github.com/sindresorhus/awesome). This
 - Find out how to [create a new awesome list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 - [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Awesome Badge!
 - We are in GitHub, so I should include some awesome GitHub stuffs - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+
+---
 
 ### spm 781
 
@@ -224,6 +268,8 @@ This is [the issue](https://github.com/spmjs/spm/issues/781) in the project [spm
 - Don't dirty the original **package.json** - [Cookies 26](https://github.com/ScottHamper/Cookies/pull/26)
 - Good Bye **spm** - [farewell](https://github.com/spmjs/spm/issues/1416)
 
+---
+
 ### Volkswagen is the best
 
 [![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
@@ -236,6 +282,8 @@ True Life:
 
 - [Volkswagened](https://github.com/auchenberg/volkswagen/issues/5#issuecomment-160220440)!!!!
 
+---
+
 ### Should we stop GitHub in China?
 
 ![greatfire](https://avatars0.githubusercontent.com/u/6158630?v=3&s=200)
@@ -247,6 +295,8 @@ I hope this is not going to happen in the future, at the moment, GitHub is still
 - Don't do politics, don't do politics - [GreatFire 65](https://github.com/greatfire/wiki/issues/65)
 - Please don't block GitHub - [GreatFire 60](https://github.com/greatfire/wiki/issues/60)
 - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 - [zhao](https://github.com/programthink/zhao)
+
+---
 
 ### Art Version of your Contribution Graph
 
