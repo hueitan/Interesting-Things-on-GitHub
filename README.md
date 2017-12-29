@@ -2,6 +2,7 @@
 
 As an Open Source developer, I am being attracted to the new and interesting things on GitHub.
 
+- [Remove my password from lists so hackers won't be able to hack me ](#remove-my-password-from-lists-so-hackers-wont-be-able-to-hack-me)
 - [Infinity Contributors](#infinity-contributors)
 - [Keyword updates in Issues and Pull Requests](#keyword-updates-in-issues-and-pull-requests)
 - [A formal spec for GitHub Flavored Markdown](#a-formal-spec-for-github-flavored-markdown)
@@ -27,6 +28,18 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Volkswagen is the best](#volkswagen-is-the-best)
 - [Should we stop GitHub in China](#should-we-stop-github-in-china)
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
+
+---
+
+### Remove my password from lists so hackers won't be able to hack me 
+
+> 🐬 Password
+
+[![screen shot 2017-12-29 at 11 51 44](https://user-images.githubusercontent.com/2560096/34435542-bb4d4dc2-ec8e-11e7-8d0e-66e6905e06b0.png)](https://github.com/danielmiessler/SecLists/pull/155)
+
+- [Pull Request Link](https://github.com/danielmiessler/SecLists/pull/155)
+- [Hacker News Link](https://news.ycombinator.com/item?id=16009459)
+- [Reddit Link](https://www.reddit.com/r/ProgrammerHumor/comments/7l9ixf/remove_my_password_from_common_password_lists_so/)
 
 ---
 
