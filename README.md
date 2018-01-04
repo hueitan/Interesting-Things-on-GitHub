@@ -249,7 +249,7 @@ There are too many funny and existent messages!
 > Anything means anything. Personal questions. Money. Work. Life. Code. Whatever.
 
 - A very great question which is popular - [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
-- You can find others who pick up ama - [https://github.com/sindresorhus/amas](Awesome & Marvelous Amas)
+- You can find others who pick up ama - [Awesome & Marvelous Amas](https://github.com/sindresorhus/amas)
 
 ---
 
