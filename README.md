@@ -4,7 +4,7 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 
 <a name="content"></a>
 
-- [Notepad++ v7.8.1 : Free Uyghur Incident](#notepad-v781-free-uyghur-edition)
+- [Notepad++ v7.8.1 : Free Uyghur Incident](#notepad-v781--free-uyghur-incident)
 - [Remove my password from lists so hackers won't be able to hack me ](#remove-my-password-from-lists-so-hackers-wont-be-able-to-hack-me)
 - [Infinity Contributors](#infinity-contributors)
 - [Keyword updates in Issues and Pull Requests](#keyword-updates-in-issues-and-pull-requests)
