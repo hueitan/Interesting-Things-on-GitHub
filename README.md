@@ -4,6 +4,7 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 
 <a name="content"></a>
 
+- [Notepad++ v7.8.1 : Free Uyghur Incident](#notepad-v781-free-uyghur-edition)
 - [Remove my password from lists so hackers won't be able to hack me ](#remove-my-password-from-lists-so-hackers-wont-be-able-to-hack-me)
 - [Infinity Contributors](#infinity-contributors)
 - [Keyword updates in Issues and Pull Requests](#keyword-updates-in-issues-and-pull-requests)
@@ -32,6 +33,12 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Art Version of your Contribution Graph](#art-version-of-your-contribution-graph)
 
 ---
+
+### Notepad++ v7.8.1 : Free Uyghur Incident
+
+The incident happens when Notepad++ team release a new version with the topic of Free Uyghur, checkout the [issue list](https://github.com/notepad-plus-plus/notepad-plus-plus/issues) to see what's happening there.
+
+- [Article Link](https://notepad-plus-plus.org/news/v781-free-uyghur-edition/)
 
 ### Remove my password from lists so hackers won't be able to hack me 
 
