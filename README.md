@@ -16,7 +16,6 @@ As an Open Source developer, I am being attracted to the new and interesting thi
 - [Unlimited Private Repositories](#unlimited-private-repositories)
 - [Contributor on-ramp](#contributor-on-ramp)
 - [Issue and PR templates](#issue-and-pr-templates)
-- [Markdown text-formatting toolbar](#markdown-text-formatting-toolbar)
 - [Comment in diff markdown](#comment-in-diff-markdown)
 - [Filter search on personal GitHub repo](#filter-search-on-personal-github-repo)
 - [Is XX dying?](#is-xx-dying)
@@ -152,18 +151,6 @@ Issue and Pull Request templates support now! All you have to do is adding `ISSU
 - Dear GitHub - https://github.com/dear-github/dear-github/issues/125
 - [Official Blog](https://github.com/blog/2111-issue-and-pull-request-templates), [Documentation](https://help.github.com/articles/helping-people-contribute-to-your-project/)
 - [Curated list of GitHub Issues and Pull Requests templates](https://github.com/devspace/awesome-github-templates)
-
-<a href="#content"><p align="right">Back to Top</p></a>
-
----
-
-### Markdown text-formatting toolbar
-
-:point_right: We can use the text-formatting toolbar for markdown now:smile:
-
-![toolbar](https://cloud.githubusercontent.com/assets/1369864/12426292/97d5a18e-be9e-11e5-8637-7c8109b4315f.gif)
-
-> blog - https://github.com/blog/2097-improved-commenting-with-markdown
 
 <a href="#content"><p align="right">Back to Top</p></a>
 
