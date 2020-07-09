@@ -41,6 +41,8 @@ The incident happens when Notepad++ team release a new version with the topic of
 
 - [Article Link](https://notepad-plus-plus.org/news/v781-free-uyghur-edition/)
 
+---
+
 ### Remove my password from lists so hackers won't be able to hack me 
 
 > 🐬 Password
